@@ -1,0 +1,331 @@
+$primary: #b16143;
+$light: #ffefdf;
+
+a {
+     text-decoration: none;
+}
+
+@import '~bootstrap/scss/bootstrap';
+
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+body {
+     font-family: "Noto Sans", sans-serif;
+}
+
+a {
+     text-decoration: none;
+}
+
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+     width: 100%;
+     padding-right: 15px;
+     padding-left: 15px;
+     margin-right: auto;
+     margin-left: auto;
+}
+
+@media (min-width: 1200px) {
+
+     .container,
+     .container-lg,
+     .container-md,
+     .container-sm,
+     .container-xl {
+          max-width: 1250px !important;
+     }
+}
+
+.topbar {
+     padding: 7px 0;
+}
+
+.navbar.scrolled {
+     position: fixed;
+     top: 0;
+     width: 100%;
+     z-index: 1000;
+}
+
+.sm-logo {
+     height: 50px;
+}
+
+.navbar .nav-link {
+     font-weight: bold !important;
+     color: #000 !important;
+}
+
+.navbar-nav li a:hover {
+     text-decoration: underline;
+}
+
+.item-detail {
+     padding-left: 0.4rem;
+     font-weight: 600;
+     color: #000;
+}
+
+.tabs li.nav-item {
+     font-size: 13px;
+     margin: 5px;
+     color: #000;
+
+}
+
+.tabs .nav-link {
+     transition: none;
+     white-space: nowrap;
+}
+
+
+.tabs .nav-tabs .nav-link:hover,
+.nav-tabs .nav-link:focus {
+     border: none;
+     background-color: #dda372;
+     border-radius: 20px;
+     color: #fff;
+     text-decoration: underline;
+     transition: opacity 0.5s ease;
+
+}
+
+.tabs .nav-tabs .nav-link.active {
+     background-color: #dda372;
+     border-radius: 20px;
+     color: #fff;
+     text-decoration: none;
+     transition: opacity 0.5s ease;
+}
+
+.tabs button {
+     color: #000;
+
+}
+
+.tabs .nav-tabs {
+     border: none;
+}
+
+.food-products img {
+     margin-bottom: 20px;
+}
+
+.food-products button {
+     width: 100%;
+     color: #fff;
+     white-space: nowrap;
+}
+
+.food-products a {
+     text-decoration: none;
+     color: #000;
+}
+
+.btn-outline-dark {
+     --bs-btn-color: #0000;
+}
+
+.banner {
+     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .6)), url(Components/Home/img/best-selling.webp);
+     color: #fff;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     height: 300px;
+}
+
+.banner-content {
+     padding: 6rem 0rem;
+}
+
+.order-content img {
+     padding: 10px;
+     border: 2px dashed;
+     border-radius: 50%;
+}
+
+.order-content p {
+     font-size: 13px;
+}
+
+.order-content span {
+     position: absolute;
+     top: 5%;
+     left: 5%;
+     font-size: 25px;
+     font-weight: 700;
+     color: #b16143;
+}
+
+.footer-section {
+     background: #ffefdf;
+     position: relative;
+}
+
+.grid-element1 {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     gap: 20px;
+     color: #fff;
+     height: 557px;
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(Components/Home/img/skin-care-ehsaasnation.webp);
+}
+
+.grid-element2 {
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(Components/Home/img/paper-bag.webp);
+
+}
+
+.grid-element3 {
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(Components/Home/img/kraft-stand-up-pounches.webp);
+
+}
+
+.grid-element4 {
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(Components/Home/img/kraft-linear-box.jpg);
+
+}
+
+.grid-element5 {
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(Components/Home/img/packagingbox-karaft-bowls.webp);
+
+}
+
+.grid-element6 {
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(Components/Home/img/e-commerce-carton-10-x-6-x-4-250x250-1.webp);
+
+}
+
+
+.masnory {
+     display: flex;
+     background-size: cover;
+     flex-direction: column;
+     justify-content: center;
+     color: #fff;
+     height: 270px;
+     text-align: center;
+     align-items: center;
+     gap: 20px;
+}
+
+.footer-widget-heading h3 {
+     color: #b16143;
+     font-size: 20px !important;
+     font-weight: 600;
+     margin-bottom: 40px;
+     position: relative;
+}
+
+.footer-widget ul li {
+     display: inline-block;
+     float: left;
+     width: 50%;
+     margin-bottom: 12px;
+     color: #878787;
+}
+
+.footer-widget ul li a {
+     color: #878787;
+}
+
+.footer-text-contact-detail {
+     margin-bottom: 14px;
+     font-size: 14px;
+     color: #7e7e7e;
+     line-height: 20px;
+}
+
+.footer-text p {
+     margin-bottom: 14px;
+     font-size: 14px;
+     color: #7e7e7e;
+     line-height: 28px;
+}
+
+.footer-logo {
+     margin-bottom: 30px;
+}
+
+.footer-widget-heading h3::before {
+     content: "";
+     position: absolute;
+     left: 0;
+     bottom: -15px;
+     height: 2px;
+     width: 50px;
+     background: #b16143;
+}
+
+.offer {
+     border-bottom: 1px solid #b16143;
+}
+
+.offer h4 {
+     color: #b16143;
+     font-size: 20px;
+     font-weight: 600;
+     margin-bottom: 2px;
+}
+
+.offer span {
+     color: #878787;
+}
+
+.offer-text {
+     display: flex;
+     gap: 20px;
+     align-items: center;
+}
+
+.offer-text img {
+     height: 40px;
+
+}
+
+.copyright-area {
+     background: #b16143;
+     padding: 8px 0 8px 0;
+}
+
+.copyright-text p {
+     margin: 0;
+     font-size: 14px;
+     color: rgba(255, 255, 255, 1);
+}
+
+.footer-social-icon span {
+     color: #b16143;
+     display: block;
+     font-size: 20px;
+     font-weight: 700;
+     margin-bottom: 20px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+     background-color: #b16143;
+     padding: 10px;
+     border-radius: 50%;
+     color: #fff;
+}
+
+.blog a {
+     color: #fff;
+}
+
+.blog p {
+     font-size: 14px;
+}

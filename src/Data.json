@@ -1,0 +1,598 @@
+[
+     {
+          "category": "kraft-standup-pouches",
+          "products": [
+               {
+                    "id": "1",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "id": "2",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "27700",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "id": "3",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "id": "4",
+                    "name": "Boxes",
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "id": "5",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "id": "6",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "id": "7",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "id": "8",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "Food-packaging",
+          "products": [
+               {
+                    "id": "1",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "id": "2",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "id": "3",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "id": "4",
+                    "name": "Boxes",
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "id": "5",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "id": "6",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "id": "7",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "id": "8",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "Eco-products",
+          "products": [
+               {
+                    "id": "1",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "id": "2",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "id": "3",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "id": "4",
+                    "name": "Boxes",
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "id": "5",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "id": "6",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "id": "7",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "id": "8",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "Tin-Boxes",
+          "products": [
+               {
+                    "id": "1",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "id": "2",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "27700",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "id": "3",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "id": "4",
+                    "name": "Boxes",
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "id": "5",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "id": "kraft6",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "id": "kraft7",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "id": "8",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "kraft-pouches",
+          "products": [
+               {
+                    "id": "1",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "id": "2",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "27700",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "id": "3",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "id": "4",
+                    "name": "Boxes",
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "id": "5",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "id": "kraft6",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "id": "kraft7",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "id": "8",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "Bakery-packaging",
+          "products": [
+               {
+                    "id": "1",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "id": "2",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "27700",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "id": "3",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "id": "4",
+                    "name": "Boxes",
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "id": "5",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "id": "kraft6",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "id": "kraft7",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "id": "8",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "Plastic-products",
+          "products": [
+               {
+                    "id": "1",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "id": "2",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "27700",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "id": "3",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "id": "4",
+                    "name": "Boxes",
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "id": "5",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "id": "kraft6",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "id": "kraft7",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "2000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "id": "8",
+                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
+                    "price": "4000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "instagram",
+          "images": [
+               {
+                    "id": "1",
+                    "image": "images/instagram/1.jpg"
+               },
+               {
+                    "id": "2",
+                    "image": "images/instagram/2.jpg"
+               },
+               {
+                    "id": "3",
+                    "image": "images/instagram/3.jpg"
+               },
+               {
+                    "id": "4",
+                    "image": "images/instagram/4.jpg"
+               },
+               {
+                    "id": "5",
+                    "image": "images/instagram/5.jpg"
+               },
+               {
+                    "id": "6",
+                    "image": "images/instagram/6.jpg"
+               },
+               {
+                    "id": "7",
+                    "image": "images/instagram/1.jpg"
+               },
+               {
+                    "id": "8",
+                    "image": "images/instagram/2.jpg"
+               },
+               {
+                    "id": "9",
+                    "image": "images/instagram/6.jpg"
+               },
+               {
+                    "id": "10",
+                    "image": "images/instagram/4.jpg"
+               },
+               {
+                    "id": "11",
+                    "image": "images/instagram/3.jpg"
+               },
+               {
+                    "id": "12",
+                    "image": "images/instagram/5.jpg"
+               }
+          ]
+     },
+     {
+          "category": "Blog",
+          "blogData": [
+               {
+                    "id": "1",
+                    "image": "images/blog1.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               },
+               {
+                    "id": "2",
+                    "image": "images/blog2.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               },
+               {
+                    "id": "3",
+                    "image": "images/blog3.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               },
+               {
+                    "id": "4",
+                    "image": "images/blog4.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               },
+               {
+                    "id": "5",
+                    "image": "images/blog5.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               },
+               {
+                    "id": "6",
+                    "image": "images/blog6.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               },
+               {
+                    "id": "7",
+                    "image": "images/blog7.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               },
+               {
+                    "id": "8",
+                    "image": "images/blog8.webp",
+                    "title": "Elevating Brand Presence With Custom Packaging Solutions ",
+                    "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
+               }
+          ]
+     }
+]
