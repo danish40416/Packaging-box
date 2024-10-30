@@ -329,3 +329,27 @@ a {
 .blog p {
      font-size: 14px;
 }
+
+.reviews {
+     gap: 20px;
+}
+
+
+.reviews-right a {
+     color: #000;
+}
+
+.review-slider .slick-prev:before .slick-next:before {
+     background-color: transparent;
+     padding: 10px;
+     border-radius: 50%;
+     color: #000;
+}
+
+.slider-review {
+     margin: 6px 0px 0px 10px;
+}
+
+.review-date {
+     font-size: 12px;
+}
