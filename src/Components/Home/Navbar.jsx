@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
+import MegaMenu from './MegaMenu';
 
 export default function Navbar() {
      const [scrolled, setScrolled] = useState(false);
      const [logo, setLogo] = useState(window.innerWidth < 578);
      const [menuOpen, setMenuOpen] = useState(false);
+     const [isHovered, setIsHovered] = useState(false);
 
      useEffect(() => {
           const handleScroll = () => {
@@ -27,7 +29,7 @@ export default function Navbar() {
 
      return (
           <div>
-               <nav className={`navbar navbar-expand-xl bg-light p-3 shadow-lg ${scrolled ? 'scrolled' : ''}`}>
+               <nav className={`navbar navbar-expand-xl bg-light  shadow-lg ${scrolled ? 'scrolled' : ''}`}>
                     <div className="container-fluid">
                          <div className="logo">
                               <a href="/" className="navbar-brand">
@@ -52,10 +54,10 @@ export default function Navbar() {
 
                          <div className={`navbar-collapse collapse ${menuOpen ? 'show' : ''}`} id="bootstrap-nav-collapse">
                               <ul className="navbar-nav ms-auto">
-                                   <li className="nav-item dropdown">
+                                   <li className="nav-item dropdown" onMouseEnter={() => setIsHovered(true)} >
                                         <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown"
                                              role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                             Shop</a>
+                                             Shop All</a>
                                    </li>
                                    <li ><a href="/zero-waste-kits" className="nav-link">Zero Waste Kits</a></li>
                                    <li><a href="/shop" className="nav-link">Shop</a></li>
@@ -78,6 +80,8 @@ export default function Navbar() {
                          </div>
                     </div>
                </nav>
+               <MegaMenu isHovered={isHovered} setIsHovered={setIsHovered} />
+
           </div>
      );
 }

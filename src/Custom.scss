@@ -47,9 +47,14 @@ a {
 
 .topbar {
      padding: 7px 0;
+     font-size: 15px;
 }
 
-.navbar.scrolled {
+.navbar {
+     padding: 13px 16px;
+}
+
+.scrolled {
      position: fixed;
      top: 0;
      width: 100%;
@@ -63,10 +68,42 @@ a {
 .navbar .nav-link {
      font-weight: bold !important;
      color: #000 !important;
+     font-size: 15px;
 }
 
 .navbar-nav li a:hover {
      text-decoration: underline;
+}
+
+.mega-menu {
+     position: absolute;
+     z-index: 1;
+     transition: 0.3s ease-in-out;
+
+}
+
+.mega-menu-content {
+     position: fixed;
+     left: 25%;
+     top: 15%;
+}
+
+.shop-hover {
+     display: block;
+     transition: 0.3s ease-in-out;
+}
+
+.menu-scroll {
+     top: 13%;
+}
+
+.mega-menu li {
+     margin-bottom: 10px;
+}
+
+.shop:hover+.mega-menu {
+     display: block;
+     transition: top 0.3s ease-in-out;
 }
 
 .item-detail {
@@ -352,4 +389,16 @@ a {
 
 .review-date {
      font-size: 12px;
+}
+
+
+///////////Shop////////////////  
+.page-title {
+     height: 44vh;
+}
+
+.shop-image {
+     height: 40px;
+     width: 40px;
+     border-radius: 50%;
 }

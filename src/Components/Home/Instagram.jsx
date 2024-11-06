@@ -2,7 +2,7 @@ import React from 'react'
 import Button from 'react-bootstrap/Button';
 import data from '../../Data.json'
 export default function Instagram() {
-     const dataCategory = data.find(p => p.category === 'instagram');
+     const dataCategory = data.find(p => p.type === 'instagram');
      const instaData = dataCategory ? dataCategory.images : []
 
      return (

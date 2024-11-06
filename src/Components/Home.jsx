@@ -13,12 +13,14 @@ import SlickSlider from './Home/SlickSlider'
 import Instagram from './Home/Instagram'
 import Footer from './Home/Footer'
 import Reviews from './Home/Reviews'
+import MegaMenu from './Home/MegaMenu'
 
 export default function Home() {
      return (
           <div>
                <Topbar />
                <Navbar />
+               <MegaMenu />
                <Slider />
                <Products />
                <EcoBanner />

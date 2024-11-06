@@ -1,34 +1,81 @@
 [
      {
-          "category": "kraft-standup-pouches",
+          "type": "top-rated",
           "products": [
                {
-                    "id": "1",
-                    "name": "Boxes",
+                    "link": "http://localhost:3000/",
+                    "title": "Dry Fruits Acrylic Rounded Box",
+                    "price": "3000",
+                    "image": "images/p1.webp"
+               },
+               {
+                    "link": "http://localhost:3000/",
+                    "title": "Six Portion Acrylic Box",
+                    "price": "27700",
+                    "image": "images/p2.webp"
+               },
+               {
+                    "link": "http://localhost:3000/",
+                    "title": "28 H Hinged Deli Box",
+                    "price": "3000",
+                    "image": "images/p3.webp"
+               },
+               {
+                    "category": "Eco-products",
+                    "link": "http://localhost:3000/",
+                    "title": "32 h Hinged Deli Box",
+                    "price": "3000",
+                    "image": "images/p4.webp"
+               },
+               {
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper  Plates",
+                    "price": "3000",
+                    "image": "images/p5.webp"
+               },
+               {
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Paper Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p6.webp"
+               },
+               {
+                    "link": "http://localhost:3000/",
+                    "title": "Compostable 3 Compartment Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p7.webp"
+               },
+               {
+                    "link": "http://localhost:3000/",
+                    "title": " Paper Biodegradable Disposable Plates",
+                    "price": "3000",
+                    "image": "images/p6.webp"
+               }
+          ]
+     },
+     {
+          "category": "kraft-standup-pouches",
+          "description": "Acrylic toppers for cake decorations for birthdays: Unique designs made to make your event unforgettable. They can be incorporated with other decorations purchased from our store for your celebration.\n\nBirthday Cake toppers with personal Happy Birthday letters to bring happiness to your celebration.\n\nAcrylic toppers for cakes can decorate desserts, centerpiece tables, floral arrangements, fruit bowls, and much more.\n\nMaterial: The cake topper we offer is made from high-end acrylic. It is food-safe, long-lasting, and makes the perfect cake topper for birthday celebrations.\n\nThe cake toppers can be used on many occasions to decorate cakes and desserts like muffins and ice cream, fruit bowls, table decorations, and so on. Enjoy a great time with your family and friends.\n\nSize: Cake toppers are approximately 15 cm (6 inches), which is ideal for most cakes.\n\nMaterial: Our cake topper is made from top-quality acrylic. It is food-safe, robust, and reusable—an excellent choice for birthday parties.\n\nEnsure you remove the protective film from both sides before using.",
+          "products": [
+               {
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "3000",
                     "image": "images/p1.webp"
                },
                {
-                    "id": "2",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "27700",
                     "image": "images/p2.webp"
                },
                {
-                    "id": "3",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "3000",
                     "image": "images/p3.webp"
                },
                {
-                    "id": "4",
-                    "name": "Boxes",
                     "category": "Eco-products",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
@@ -36,32 +83,24 @@
                     "image": "images/p4.webp"
                },
                {
-                    "id": "5",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "3000",
                     "image": "images/p5.webp"
                },
                {
-                    "id": "6",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "3000",
                     "image": "images/p6.webp"
                },
                {
-                    "id": "7",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "3000",
                     "image": "images/p7.webp"
                },
                {
-                    "id": "8",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "3000",
@@ -71,67 +110,51 @@
      },
      {
           "category": "Food-packaging",
+          "description": "Acrylic toppers for cake decorations for birthdays: Unique designs made to make your event unforgettable. They can be incorporated with other decorations purchased from our store for your celebration.\n\nBirthday Cake toppers with personal Happy Birthday letters to bring happiness to your celebration.\n\nAcrylic toppers for cakes can decorate desserts, centerpiece tables, floral arrangements, fruit bowls, and much more.\n\nMaterial: The cake topper we offer is made from high-end acrylic. It is food-safe, long-lasting, and makes the perfect cake topper for birthday celebrations.\n\nThe cake toppers can be used on many occasions to decorate cakes and desserts like muffins and ice cream, fruit bowls, table decorations, and so on. Enjoy a great time with your family and friends.\n\nSize: Cake toppers are approximately 15 cm (6 inches), which is ideal for most cakes.\n\nMaterial: Our cake topper is made from top-quality acrylic. It is food-safe, robust, and reusable—an excellent choice for birthday parties.\n\nEnsure you remove the protective film from both sides before using.",
           "products": [
                {
-                    "id": "1",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p1.webp"
                },
                {
-                    "id": "2",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p2.webp"
                },
                {
-                    "id": "3",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p3.webp"
                },
                {
-                    "id": "4",
-                    "name": "Boxes",
-                    "category": "Eco-products",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p4.webp"
                },
                {
-                    "id": "5",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p5.webp"
                },
                {
-                    "id": "6",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p6.webp"
                },
                {
-                    "id": "7",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p7.webp"
                },
                {
-                    "id": "8",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
@@ -141,67 +164,51 @@
      },
      {
           "category": "Eco-products",
+          "description": "Acrylic toppers for cake decorations for birthdays: Unique designs made to make your event unforgettable. They can be incorporated with other decorations purchased from our store for your celebration.\n\nBirthday Cake toppers with personal Happy Birthday letters to bring happiness to your celebration.\n\nAcrylic toppers for cakes can decorate desserts, centerpiece tables, floral arrangements, fruit bowls, and much more.\n\nMaterial: The cake topper we offer is made from high-end acrylic. It is food-safe, long-lasting, and makes the perfect cake topper for birthday celebrations.\n\nThe cake toppers can be used on many occasions to decorate cakes and desserts like muffins and ice cream, fruit bowls, table decorations, and so on. Enjoy a great time with your family and friends.\n\nSize: Cake toppers are approximately 15 cm (6 inches), which is ideal for most cakes.\n\nMaterial: Our cake topper is made from top-quality acrylic. It is food-safe, robust, and reusable—an excellent choice for birthday parties.\n\nEnsure you remove the protective film from both sides before using.",
           "products": [
                {
-                    "id": "1",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p1.webp"
                },
                {
-                    "id": "2",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p2.webp"
                },
                {
-                    "id": "3",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p3.webp"
                },
                {
-                    "id": "4",
-                    "name": "Boxes",
-                    "category": "Eco-products",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p4.webp"
                },
                {
-                    "id": "5",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p5.webp"
                },
                {
-                    "id": "6",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p6.webp"
                },
                {
-                    "id": "7",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
                     "image": "images/p7.webp"
                },
                {
-                    "id": "8",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
@@ -211,43 +218,33 @@
      },
      {
           "category": "Tin-Boxes",
+          "description": "Acrylic toppers for cake decorations for birthdays: Unique designs made to make your event unforgettable. They can be incorporated with other decorations purchased from our store for your celebration.\n\nBirthday Cake toppers with personal Happy Birthday letters to bring happiness to your celebration.\n\nAcrylic toppers for cakes can decorate desserts, centerpiece tables, floral arrangements, fruit bowls, and much more.\n\nMaterial: The cake topper we offer is made from high-end acrylic. It is food-safe, long-lasting, and makes the perfect cake topper for birthday celebrations.\n\nThe cake toppers can be used on many occasions to decorate cakes and desserts like muffins and ice cream, fruit bowls, table decorations, and so on. Enjoy a great time with your family and friends.\n\nSize: Cake toppers are approximately 15 cm (6 inches), which is ideal for most cakes.\n\nMaterial: Our cake topper is made from top-quality acrylic. It is food-safe, robust, and reusable—an excellent choice for birthday parties.\n\nEnsure you remove the protective film from both sides before using.",
           "products": [
                {
-                    "id": "1",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p1.webp"
                },
                {
-                    "id": "2",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "27700",
                     "image": "images/p2.webp"
                },
                {
-                    "id": "3",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p3.webp"
                },
                {
-                    "id": "4",
-                    "name": "Boxes",
-                    "category": "Eco-products",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p4.webp"
                },
                {
-                    "id": "5",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -255,7 +252,6 @@
                },
                {
                     "id": "kraft6",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -263,15 +259,12 @@
                },
                {
                     "id": "kraft7",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p7.webp"
                },
                {
-                    "id": "8",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
@@ -281,43 +274,33 @@
      },
      {
           "category": "kraft-pouches",
+          "description": "Acrylic toppers for cake decorations for birthdays: Unique designs made to make your event unforgettable. They can be incorporated with other decorations purchased from our store for your celebration.\n\nBirthday Cake toppers with personal Happy Birthday letters to bring happiness to your celebration.\n\nAcrylic toppers for cakes can decorate desserts, centerpiece tables, floral arrangements, fruit bowls, and much more.\n\nMaterial: The cake topper we offer is made from high-end acrylic. It is food-safe, long-lasting, and makes the perfect cake topper for birthday celebrations.\n\nThe cake toppers can be used on many occasions to decorate cakes and desserts like muffins and ice cream, fruit bowls, table decorations, and so on. Enjoy a great time with your family and friends.\n\nSize: Cake toppers are approximately 15 cm (6 inches), which is ideal for most cakes.\n\nMaterial: Our cake topper is made from top-quality acrylic. It is food-safe, robust, and reusable—an excellent choice for birthday parties.\n\nEnsure you remove the protective film from both sides before using.",
           "products": [
                {
-                    "id": "1",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p1.webp"
                },
                {
-                    "id": "2",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "27700",
                     "image": "images/p2.webp"
                },
                {
-                    "id": "3",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p3.webp"
                },
                {
-                    "id": "4",
-                    "name": "Boxes",
-                    "category": "Eco-products",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p4.webp"
                },
                {
-                    "id": "5",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -325,7 +308,6 @@
                },
                {
                     "id": "kraft6",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -333,15 +315,12 @@
                },
                {
                     "id": "kraft7",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p7.webp"
                },
                {
-                    "id": "8",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
@@ -350,44 +329,35 @@
           ]
      },
      {
+          "type": "products",
           "category": "Bakery-packaging",
+          "description": "Acrylic toppers for cake decorations for birthdays: Unique designs made to make your event unforgettable. They can be incorporated with other decorations purchased from our store for your celebration.\n\nBirthday Cake toppers with personal Happy Birthday letters to bring happiness to your celebration.\n\nAcrylic toppers for cakes can decorate desserts, centerpiece tables, floral arrangements, fruit bowls, and much more.\n\nMaterial: The cake topper we offer is made from high-end acrylic. It is food-safe, long-lasting, and makes the perfect cake topper for birthday celebrations.\n\nThe cake toppers can be used on many occasions to decorate cakes and desserts like muffins and ice cream, fruit bowls, table decorations, and so on. Enjoy a great time with your family and friends.\n\nSize: Cake toppers are approximately 15 cm (6 inches), which is ideal for most cakes.\n\nMaterial: Our cake topper is made from top-quality acrylic. It is food-safe, robust, and reusable—an excellent choice for birthday parties.\n\nEnsure you remove the protective film from both sides before using.",
           "products": [
                {
-                    "id": "1",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p1.webp"
                },
                {
-                    "id": "2",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "27700",
                     "image": "images/p2.webp"
                },
                {
-                    "id": "3",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p3.webp"
                },
                {
-                    "id": "4",
-                    "name": "Boxes",
-                    "category": "Eco-products",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p4.webp"
                },
                {
-                    "id": "5",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -395,7 +365,6 @@
                },
                {
                     "id": "kraft6",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -403,15 +372,12 @@
                },
                {
                     "id": "kraft7",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p7.webp"
                },
                {
-                    "id": "8",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
@@ -420,44 +386,35 @@
           ]
      },
      {
+          "type": "products",
           "category": "Plastic-products",
+          "description": "Acrylic toppers for cake decorations for birthdays: Unique designs made to make your event unforgettable. They can be incorporated with other decorations purchased from our store for your celebration.\n\nBirthday Cake toppers with personal Happy Birthday letters to bring happiness to your celebration.\n\nAcrylic toppers for cakes can decorate desserts, centerpiece tables, floral arrangements, fruit bowls, and much more.\n\nMaterial: The cake topper we offer is made from high-end acrylic. It is food-safe, long-lasting, and makes the perfect cake topper for birthday celebrations.\n\nThe cake toppers can be used on many occasions to decorate cakes and desserts like muffins and ice cream, fruit bowls, table decorations, and so on. Enjoy a great time with your family and friends.\n\nSize: Cake toppers are approximately 15 cm (6 inches), which is ideal for most cakes.\n\nMaterial: Our cake topper is made from top-quality acrylic. It is food-safe, robust, and reusable—an excellent choice for birthday parties.\n\nEnsure you remove the protective film from both sides before using.",
           "products": [
                {
-                    "id": "1",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
-                    "price": "2000",
+                    "price": "27700",
                     "image": "images/p1.webp"
                },
                {
-                    "id": "2",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "27700",
                     "image": "images/p2.webp"
                },
                {
-                    "id": "3",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p3.webp"
                },
                {
-                    "id": "4",
-                    "name": "Boxes",
-                    "category": "Eco-products",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p4.webp"
                },
                {
-                    "id": "5",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -465,7 +422,6 @@
                },
                {
                     "id": "kraft6",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
@@ -473,15 +429,12 @@
                },
                {
                     "id": "kraft7",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "2000",
                     "image": "images/p7.webp"
                },
                {
-                    "id": "8",
-                    "name": "Boxes",
                     "link": "http://localhost:3000/",
                     "title": "Compostable 3 Compartment Paper Biodegradable Disposable Plates",
                     "price": "4000",
@@ -490,38 +443,30 @@
           ]
      },
      {
-          "category": "instagram",
+          "type": "instagram",
           "images": [
                {
-                    "id": "1",
                     "image": "images/instagram/1.jpg"
                },
                {
-                    "id": "2",
                     "image": "images/instagram/2.jpg"
                },
                {
-                    "id": "3",
                     "image": "images/instagram/3.jpg"
                },
                {
-                    "id": "4",
                     "image": "images/instagram/4.jpg"
                },
                {
-                    "id": "5",
                     "image": "images/instagram/5.jpg"
                },
                {
-                    "id": "6",
                     "image": "images/instagram/6.jpg"
                },
                {
-                    "id": "7",
                     "image": "images/instagram/1.jpg"
                },
                {
-                    "id": "8",
                     "image": "images/instagram/2.jpg"
                },
                {
@@ -543,52 +488,44 @@
           ]
      },
      {
-          "category": "Blog",
+          "type": "Blog",
           "blogData": [
                {
-                    "id": "1",
                     "image": "images/blog1.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
                },
                {
-                    "id": "2",
                     "image": "images/blog2.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
                },
                {
-                    "id": "3",
                     "image": "images/blog3.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
                },
                {
-                    "id": "4",
                     "image": "images/blog4.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
                },
                {
-                    "id": "5",
                     "image": "images/blog5.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
                },
                {
-                    "id": "6",
                     "image": "images/blog6.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
                },
                {
-                    "id": "7",
                     "image": "images/blog7.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "
                },
                {
-                    "id": "8",
                     "image": "images/blog8.webp",
                     "title": "Elevating Brand Presence With Custom Packaging Solutions ",
                     "description": "When it comes to packaging your handmade soap, there are a lot of options available. "

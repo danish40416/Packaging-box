@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import data from '../../Data.json'
 export default function SlickSlider() {
-     const dataCategory = data.find(d => d.category === 'Blog');
+     const dataCategory = data.find(d => d.type === 'Blog');
      const slickData = dataCategory ? dataCategory.blogData : []
 
      var settings = {
